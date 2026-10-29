@@ -1,0 +1,9 @@
+data/
+__pycache__/
+*.pyc
+.venv/
+scopes/*/scope.json
+!scopes/example.json
+scopes/*.json
+!scopes/example.json
+.git-old-backup/

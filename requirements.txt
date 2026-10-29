@@ -1,0 +1,2 @@
+# Optional: enables full YAML policy files. JSON policy files need no dependencies.
+PyYAML>=6.0
